@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "847142592507",
+    "firebase_url": "https://authtutorial-b984c-default-rtdb.firebaseio.com",
+    "project_id": "authtutorial-b984c",
+    "storage_bucket": "authtutorial-b984c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847142592507:android:35d466fff0de7eeb4d755e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1l70DI69XkWgUsKFsQ3sCdfG1x83Hw1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
